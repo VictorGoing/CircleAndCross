@@ -13,6 +13,16 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/game" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../gradle-7.3" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/game" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
